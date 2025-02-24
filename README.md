@@ -3,6 +3,12 @@ This project aims to analyze railway journey data from January 1st, 2024, to Apr
 
 
 
+![image](https://github.com/user-attachments/assets/13c40d6f-ef77-41dd-aea0-a763fe734940)
+
+
+
+
+
 ## **Introduction:**
 
   This project aims to analyze railway journey data from January 1st, 2024, to April 30th, 2024. The
